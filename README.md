@@ -1,2 +1,2 @@
 # swing-jdbc
-Java Swing application to showcase database operations using JDBC connectivity.
+Java Swing application to perform SQL CRUD operations.
